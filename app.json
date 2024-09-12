@@ -1,9 +1,9 @@
 {
    "name": "yAE-mIKO",
    "description": "A versatile Telegram Group Management Bot.",
-   "logo": "https://telegra.ph/file/4d370b478d90d98709398.jpg",
+   "logo": "https://envs.sh/P_d.jpg",
    "keywords": ["telegram", "modular", "group", "management", "Miko"],
-   "repository": "https://github.com/Infamous-Hydra/YaeMiko",
+   "repository": "https://t.me/ganaxmusicbot",
    "stack": "heroku-24",
    "formation": {
       "worker": {
